@@ -1,0 +1,8 @@
+Age group type	Age group	Age from	Age to
+A	Until 19	0	19
+	20 to 39	20	39
+	40 to 64	40	65
+	older than 65	66	
+B	Underage	0	17
+	Adult	18	64
+	Old	65	
